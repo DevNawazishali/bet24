@@ -1,0 +1,19 @@
+.n_games_main {
+    white-space: nowrap;
+    overflow: auto;
+    flex-wrap: unset;
+    display: flex;
+  
+    padding-left: 0;
+    margin-bottom: 0;
+  }
+  .n_games_items{
+    background: #ccc;
+    color: black;
+    border-right: 1px solid #116257;
+    border-radius: unset;
+    padding: 10px 10px;
+    list-style: none;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 500 ;
+}

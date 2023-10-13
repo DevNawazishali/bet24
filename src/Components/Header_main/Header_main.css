@@ -1,0 +1,26 @@
+.main_logo {
+    width: 115px;
+}
+.main_logo img {
+    width: 100%;
+}
+
+.main_header_jsx{
+    background-color: black;
+    padding: 20px 10px ;
+}
+
+.sign_btn{
+    background-color: #fdcf13!important;
+    border-radius: 0!important;
+    color: #000!important;
+    cursor: pointer!important;
+    font-size: 12px!important;
+    height: 40px!important;
+    width: 125px;
+    border: none;
+    overflow: hidden!important;
+    text-overflow: ellipsis!important;
+    text-transform: uppercase!important;
+    white-space: nowrap!important;
+}

@@ -1,0 +1,56 @@
+.dates {
+  margin-bottom: 10px;
+  padding-top: 10px;
+  color: #212529;
+  text-align: start;
+}
+
+.acc_submit {
+  margin-top: 41px;
+  background: #068267 !important;
+  border: 0;
+  padding: 5px 50px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 500;
+}
+.bag_tr {
+  background-color: #068267 !important;
+  color: white !important;
+  padding: 5px !important;
+}
+
+.acc__th_text {
+  color: white !important;
+  text-align: left !important;
+  font-size: 13px;
+}
+
+td {
+  text-align: left;
+}
+
+.acc_table {
+ margin-top: 3rem;
+}
+
+.acc_table .table > :not(caption) > * > * {
+  background-color: transparent;
+  padding: 0.5rem 4px;
+}
+
+.btns_p {
+  border: 0;
+  background: #b5b5b5;
+  padding: 10px 20px;
+  margin-right: 10px;
+  border-radius: 0px 20px;
+}
+.btns_pp {
+    border: 0;
+    background: #b5b5b5;
+    padding: 10px 20px;
+    margin-right: 10px;
+    border-radius: 5px;
+    margin-top: 17px;
+}

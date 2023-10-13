@@ -1,0 +1,27 @@
+.main_sport_bar{
+    background-color: #116257;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    margin-top: -10px;
+}
+
+.main_sport_bar ul{
+    margin: 8px 0 0 0;
+    padding: 0;
+    display: flex;
+    white-space: nowrap;
+    overflow-x: auto;
+    padding-bottom: 3px;
+}
+
+.main_sport_bar li {
+    list-style: none;
+    padding: 0px 15px;
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 14px;
+    font-weight: 500;
+    font-size: 17px;
+    cursor: pointer;
+}
